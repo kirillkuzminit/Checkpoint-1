@@ -1,0 +1,63 @@
+body{
+	font-family: 'Manrope';		
+	font-weight: 400;
+	width: 100%;
+	background: #F5F5F5;
+}
+.container{
+	width: 1400px;
+	padding: 125px;
+	background: #FFFFFF;
+	margin: 0 auto;	
+	box-sizing: border-box;
+}
+h1{
+	font-size: 60px;
+	line-height: 60px;
+	width: 956px;
+	height: 120px;
+	margin-bottom: 30px;
+	letter-spacing: -0.03em;
+}
+.interior{		
+	width: 1150px;
+	height: 500px;
+	background-image: url('./General.png');
+	margin-bottom: 150px;
+}
+.text-img{	
+	position: absolute;
+	width: 430px;
+	height: 81px;	
+	font-size: 20px;
+	line-height: 27px;
+	color: #FFFFFF;
+	margin-top: 379px;
+	margin-left: 40px;
+	letter-spacing: -0.03em;
+}
+.h2{
+	font-size: 18px;
+	line-height: 25px;
+	letter-spacing: -0.03em;
+	text-transform: uppercase;
+	margin-bottom: 30px;
+}
+.description{
+	margin-bottom: 50px;
+	width: 1048px;
+	height: 366px;
+	font-size: 45px;
+	line-height: 61px;
+	letter-spacing: -0.03em;
+}
+a{
+	display: inline-block;
+	width: 255px;
+	height: 67px;
+	line-height: 67px;
+	text-align: center;
+	background: #AD1818;
+	border-radius: 5px;
+	color: #FFFFFF;
+}
